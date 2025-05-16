@@ -50,5 +50,6 @@
 - Ponerle un nombre y ubicacion al proyecto.
 - Dirigirse a la carpeta "SDL2", ubicada en la carpeta "Codeblocks" del disco local.
 - Elegir el compilador "GNU GCC Compiler".
-- 
+
+##
 
