@@ -35,7 +35,7 @@
 3. Buscar y seleccionar **Search directories**.
 4. Elegir de nuevo **Compiler**.
 5. Pegar los siguientes directorios en el siguiente orden(cambiar de direccion acorde a tu dispositivo):
- - C:\Program Files\CodeBlocks\SDL2\bin
+  `C:\Program Files\CodeBlocks\SDL2\bin`
  - C:\Program Files\CodeBlocks\SDL2\include
  - C:\Program Files\CodeBlocks\SDL2\lib
 5. Buscar y seleccionar "Linker settings":
