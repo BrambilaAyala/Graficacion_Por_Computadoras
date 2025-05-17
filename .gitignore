@@ -1,0 +1,43 @@
+# Compilados
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.so
+*.out
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de depuración
+*.pdb
+
+# VS Code settings
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de build
+/bin/
+/obj/
+/Debug/
+/Release/
+
+# Archivos de CMake (si llegas a usarlo)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Archivos generados por el compilador
+*.gch
+*.pch
+
+# Backup files
+*~
+*.swp
+*.swo
