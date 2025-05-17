@@ -9,15 +9,15 @@
 
 ## Requisitos
 - Sistema Operativo Windows 10 o 11
-- Codebloscks:
+- **Code::Blocks**
  - [Codeblocks-20.03mingw-setup](https://www.codeblocks.org/downloads/binaries/)
 - Tipo de Sistema de 32 o 64 bits.
 - Liberia SDL2:
  - [SDL2-devel-2.30.11-mingw.zip](https://github.com/libsdl-org/SDL/releases/tag/release-2.30.11)
  - [SDL2-devel-2.30.9-mingw.zip](https://github.com/libsdl-org/SDL/releases/tag/release-2.30.9)
 - Se necesita desactivar el antivirus(opcional).
-- Compilador necesario para codeblocks:
- - GNU GCC Compiler.
+- Compilador necesario para **Code::Blocks**:
+  - GNU GCC Compiler.
   
 ## Instalacion.
 1. Descargar la libreria SDL2 (version 2.30.11 o version 2.30.9), para evitar conflictos con librerias predeterminadas.
