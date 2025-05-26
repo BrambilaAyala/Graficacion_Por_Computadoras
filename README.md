@@ -3,7 +3,7 @@
 ## Graficar Rectas usando SDL2
 Este proyecto permite graficar líneas utilizando la librería externa **SDL2**, implementando distintos algoritmos para determinar qué píxeles deben dibujarse en pantalla.
 
-## 📌 Objetivo
+## Objetivo
 
 Explorar y comparar diferentes algoritmos de trazado de líneas mediante gráficos generados con **SDL2** en C/C++.
 
